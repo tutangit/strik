@@ -1,0 +1,5 @@
+{
+  "name": "Dust Strike 3D",
+  "description": "A high-performance first-person shooter built with React Three Fiber, featuring physics-based movement, desert-themed maps with ramps, and intense muzzle flash effects reminiscent of classic tactical shooters.",
+  "requestFramePermissions": []
+}
